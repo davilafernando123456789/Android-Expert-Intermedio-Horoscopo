@@ -1,0 +1,1 @@
+Proyecto en el cual nos enfocamos en desarrollar una aplicacion con Kotlin para simular el Horoscopo
